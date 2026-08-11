@@ -14,5 +14,5 @@ And Validate arrival at the Welcome Page
 
 Examples:
 |URL                          |username                     |password          |
-|https://test.amplifypro.life |***REMOVED***	|***REMOVED***        |
+|https://test.amplifypro.life |your_test_email@example.com  |your_password     |
 
