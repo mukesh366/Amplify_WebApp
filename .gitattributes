@@ -1,6 +1,9 @@
-# Exclude generated test reports & vendored files from GitHub language stats
+# Exclude generated TestNG/Cucumber report artifacts & vendored files from GitHub language stats
 **/test-output/** linguist-generated=true
+*test-output/** linguist-generated=true
 **/*.min.js linguist-generated=true
 **/formatter.js linguist-generated=true
 **/report.js linguist-generated=true
 **/testng-reports.js linguist-generated=true
+**/index.html linguist-generated=true
+**/style.css linguist-generated=true
